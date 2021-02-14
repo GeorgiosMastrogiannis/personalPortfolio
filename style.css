@@ -12,3 +12,12 @@
 .herotext {
   text-align: center;
 }
+
+#backgroundcontainer {
+  background-color: black;
+  padding-top: 3%;
+}
+
+#portfolioitem {
+  vertical-align: bottom !important;
+}
