@@ -1,3 +1,6 @@
+.navbar {
+  position: absolute;
+}
 .heroimage {
   background-image: url(./images/pexels-denis-poltoradnev-4871102.jpg);
   background-color: #cccccc;
@@ -20,4 +23,8 @@
 
 #portfolioitem {
   vertical-align: bottom !important;
+}
+#aboutme {
+  background-color: black;
+  border-top: white solid;
 }
